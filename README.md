@@ -14,7 +14,7 @@ npm run build    # production build in dist/
 npm run build:link  # one self-contained page (dist-artifact/wasteless.html) for the shareable link
 ```
 
-**Hosted prototype:** https://claude.ai/artifact/Q3mJz8G3bZhuYJhnDqvKb9
+**Live prototype:** https://sharon0motosho.github.io/wasteless/
 
 Requires Node 18+. The student portal opens without signing in. Click **Staff sign in** to use a demo account:
 
